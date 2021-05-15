@@ -5,6 +5,8 @@
 
 I'm currently working my webdevelopment skills, my personal portfolio and this github.
 
+<img align="right" width="370" height="320" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 Skills: VUE JS / JS / HTML5 / CSS3
 
 - 🔭  I’m currently working on my [personal portfolio](https://dtoledo.netlify.app/)
