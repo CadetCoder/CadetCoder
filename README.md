@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Darrel
 #### I'm an aspiring software developer.
 
-I'm currently working my webdev skills, my personal portfolio and this github account is on working in progress...
+I'm currently working my webdevelopment skills, my personal portfolio and this github.
 
 Skills: VUE JS / JS / HTML5 / CSS3
 
