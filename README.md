@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1698096276/1620509782/1500x500)
 
 ### Hi there 👋, I'm Darrel
-#### I'm an aspiring software developer.
+## I'm an aspiring software developer.
 
 I'm currently working my webdevelopment skills, my personal portfolio and this github.
 
