@@ -11,7 +11,7 @@ Skills: VUE JS / JS / HTML5 / CSS3
 
 - 🔭  I’m currently working on my [personal portfolio](https://dtoledo.netlify.app/)
 - 🌱  I’m currently learning CS50's Introduction to Computer Science by Harvard University by edX
-- 👯  I’m looking to collaborate on open source
+- 👯  I’m looking to collaborate on open source projects
 - 💬  Ask me about ... Anything
 - 😄  Pronouns: He/Him
 - ⚡   Fun fact: I am passionate about my repository contributions
