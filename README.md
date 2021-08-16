@@ -56,4 +56,7 @@ Skills: HTML5 | CSS3 | JS | VUE JS
 
 </details>
 
-[![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://cadetCoder.github.io)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cadetcoder&label=Profile%20views&color=0e75b6&style=flat" alt="cadetcoder" /> </p>
+  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/cadetCoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="cadetCoder" /></a></p><br><br>
