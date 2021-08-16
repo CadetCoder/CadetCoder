@@ -59,4 +59,11 @@ Skills: HTML5 | CSS3 | JS | VUE JS
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cadetcoder&label=Profile%20views&color=0e75b6&style=flat" alt="cadetcoder" /> </p>
   
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/cadetCoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="cadetCoder" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/cadetCoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="cadetCoder" /></a></p><br>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadetcoder&show_icons=true&locale=en&layout=compact" alt="cadetcoder" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cadetcoder&show_icons=true&locale=en" alt="cadetcoder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cadetcoder&" alt="cadetcoder" /></p>
