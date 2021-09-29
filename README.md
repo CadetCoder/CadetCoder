@@ -1,13 +1,18 @@
 [![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1698096276/1620509782/1500x500)](https://dtoledo.netlify.app/)
 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/cadetCoder/cadetCoder"/> 
+ <!-- <img src="https://badges.pufler.dev/years/cadetCoder"/> -->
+ <img src="https://badges.pufler.dev/repos/cadetCoder"/>
+ <img src="https://badges.pufler.dev/commits/monthly/CadetCoder" />
+
+</p>
+
 <h1 align="center"> Hi there <img src="https://github.com/cadetCoder/cadetCoder/blob/main/GIFs/Hi.gif" width="30px">, I'm Darrel </h1>
 <h3 align="center"> I'm an aspiring web developer. ❤<h3>
 
 I'm currently working my webdevelopment skills, my personal portfolio and this github.
-  
-
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)  
-![](https://img.shields.io/github/commit-activity/m/cadetCoder/the-socks?logo=dtoledo)
 
 <img align="right" width="500" height="320" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
