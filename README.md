@@ -56,6 +56,15 @@ Skills: HTML5 | CSS3 | JS | VUE JS
 
 <br />
 
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/cadetCoder/cadetCoder/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+
+  
   
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/darreltoledo/) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/cadetCoder)
   
