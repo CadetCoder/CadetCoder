@@ -68,6 +68,8 @@ Skills: HTML5 | CSS3 | JS | VUE JS
   <img src="https://github.com/cadetCoder/cadetCoder/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+<div align="center">
+
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/darreltoledo/)
@@ -78,3 +80,5 @@ Skills: HTML5 | CSS3 | JS | VUE JS
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/cadetCoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="cadetCoder" /></a></p>
+
+ </div>
