@@ -52,7 +52,7 @@ Skills: HTML5 | CSS3 | JS | VUE JS
 <br>
   
 <h2 align="center">
-  My Github Status<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  Check out my Github Status <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=cadetCoder&show_icons=true&theme=radical" width="45%" align="right" >
