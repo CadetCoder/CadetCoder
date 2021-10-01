@@ -57,8 +57,10 @@ Skills: HTML5 | CSS3 | JS | VUE JS
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=cadetCoder&show_icons=true&theme=radical&line_height=27">
-
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=cadetCoder&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
+
+
 
 <br />
 
