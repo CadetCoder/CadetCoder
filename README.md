@@ -18,7 +18,7 @@ I'm currently working my webdevelopment skills, my personal portfolio and this g
 
 Skills: HTML5 | CSS3 | JS | VUE JS
 
-- 🔭  I’m currently improving on my [personal portfolio](https://dtoledo-portfolio.vercel.app)
+/*- 🔭  I’m currently improving on my [personal portfolio](https://dtoledo-portfolio.vercel.app)*/
 - 🌱  I’m currently learning CS50: Introduction to Computer Science.
 - 👯  I’m looking to collaborate on open source projects
 - 💬  Ask me about ... Anything
