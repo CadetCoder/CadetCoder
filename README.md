@@ -1,14 +1,14 @@
-[![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1698096276/1620509782/1500x500)](https://dtoledo-portfolio.vercel.app)
+[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://dtoledo-portfolio.vercel.app)
 
-<p align="center">
+<!-- https://pbs.twimg.com/profile_banners/1698096276/1620509782/1500x500 -->
+<!--  <p align="center">
 
-<!-- <img src="https://badges.pufler.dev/visits/cadetCoder/cadetCoder"/>  -->
-<!-- <img src="https://badges.pufler.dev/years/cadetCoder"/> -->
-<!-- <img src="https://badges.pufler.dev/repos/cadetCoder"/> -->
-<!-- <img src="https://badges.pufler.dev/commits/monthly/CadetCoder" /> -->
+<img src="https://badges.pufler.dev/visits/cadetCoder/cadetCoder"/>
+<img src="https://badges.pufler.dev/years/cadetCoder"/>
+<img src="https://badges.pufler.dev/repos/cadetCoder"/>
+<img src="https://badges.pufler.dev/commits/monthly/CadetCoder" /> 
 
-
-</p>
+</p> -->
 
 <h1 align="center"> Hi there <img src="https://github.com/cadetCoder/cadetCoder/blob/main/GIFs/Hi.gif" width="15px">, I'm Darrel </h1>
 <h3 align="center"> I'm an aspiring web developer. ❤<h3>
