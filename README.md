@@ -1,11 +1,12 @@
 [![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1698096276/1620509782/1500x500)](https://dtoledo-portfolio.vercel.app)
 
 <p align="center">
- 
- <img src="https://badges.pufler.dev/visits/cadetCoder/cadetCoder"/> 
- <!-- <img src="https://badges.pufler.dev/years/cadetCoder"/> -->
- <img src="https://badges.pufler.dev/repos/cadetCoder"/>
- <img src="https://badges.pufler.dev/commits/monthly/CadetCoder" />
+
+<!-- <img src="https://badges.pufler.dev/visits/cadetCoder/cadetCoder"/>  -->
+<!-- <img src="https://badges.pufler.dev/years/cadetCoder"/> -->
+<!-- <img src="https://badges.pufler.dev/repos/cadetCoder"/> -->
+<!-- <img src="https://badges.pufler.dev/commits/monthly/CadetCoder" /> -->
+
 
 </p>
 
