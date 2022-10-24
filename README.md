@@ -25,7 +25,7 @@ Skills: HTML5 | CSS3 | JS | VUE JS
 - 👯  I’m looking to collaborate on open source projects
 - 💬  Ask me about ... Anything
 - 😄  Pronouns: He/Him
-- 🥅  Goals: Proficient in HTML5/CSS3/JavaScript, first job in web development
+- 🥅  Goals: Proficient in HTML5/CSS3/JavaScript/Python, first job in web development
 - ⚡   Fun fact: Jack of all trades , Master of None !
 <br />
 <br />
