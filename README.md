@@ -11,7 +11,7 @@
 </p> -->
 
 <h1 align="center"> Hi there <img src="https://github.com/cadetCoder/cadetCoder/blob/main/GIFs/Hi.gif" width="15px">, I'm Darrel </h1>
-<h3 align="center"> I'm an aspiring web developer. ❤<h3>
+<h3 align="center"> I'm an aspiring software developer. ❤<h3>
 
 I'm currently working my webdevelopment skills, my personal portfolio and this github.
 
