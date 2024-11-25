@@ -64,7 +64,7 @@ Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL
 </p>
 
 <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cadetCoder&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dt23aaq&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <br />
