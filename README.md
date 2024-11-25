@@ -11,7 +11,7 @@
 
 </p> -->
 
-<h1 align="center"> Hi there <img src="https://github.com/cadetCoder/cadetCoder/blob/main/GIFs/Hi.gif" width="15px">, I'm Darrel </h1>
+<h1 align="center"> Hi there <img src="https://github.com/dt23aaq/dt23aaq/blob/main/GIFs/Hi.gif" width="15px">, I'm Darrel </h1>
 <h3 align="center"> I'm an aspiring software developer. ❤<h3>
 
 I'm currently working my webdevelopment skills, my personal portfolio and this github.
@@ -22,7 +22,7 @@ Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL
 
 <!-- - 🔭  I’m currently improving on my [personal portfolio](https://dtoledo-portfolio.vercel.app) -->
 <!-- - 🌱  I’m currently learning CS50: Introduction to Computer Science. -->
-- 🧑‍🎓  A BSc Computer Science student.
+- 🧑‍🎓  A BSc Computer Science student at University of Hertfordshire.
 - 👯  I’m looking to collaborate on open source projects
 - 💬  Ask me about ... Anything
 - 😄  Pronouns: He/Him
@@ -34,21 +34,21 @@ Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL
 <div align="center">
 
 <h2 align="center">Languages and Tools <img src="https://github.com/cadetCoder/cadetCoder/blob/main/GIFs/laptop.gif" width="50"></h2>  
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/vue.png?raw=true" height="60" width="60">
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/node.png?raw=true" height="60" width="60">
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/vuetify.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/vue.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/v/dt23aaq/blob/main/logos/node.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/vuetify.png?raw=true" height="60" width="60">
 
 <br>
 
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/postgres.png?raw=true" height="60" width="60">
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/mongodb.png?raw=true" height="60" width="60">
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/bootstrap.png?raw=true" height="60" width="60">
-<img src="https://github.com/CadetCoder/CadetCoder/blob/main/logos/sql.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/mongodb.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/bootstrap.png?raw=true" height="60" width="60">
+<img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/sql.png?raw=true" height="60" width="60">
 
 </div>
 
@@ -59,8 +59,8 @@ Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL
 </h2>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=cadetCoder&show_icons=true&theme=radical&line_height=27">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=cadetCoder&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img  src = "https://github-readme-stats.vercel.app/api?username=dt23aaq&show_icons=true&theme=radical&line_height=27">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dt23aaq&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 <p align = "center">
@@ -73,7 +73,7 @@ Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/cadetCoder/cadetCoder/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/dt23aaq/dt23aaq/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <div align="center">
@@ -87,6 +87,6 @@ Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL
   
 
 ### Show some ❤️ by supporting Me:
-<p><a href="https://www.buymeacoffee.com/cadetCoder"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="40" width="210" alt="cadetCoder" /></a></p>
+<p><a href="https://www.buymeacoffee.com/dt23aaq"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="40" width="210" alt="dt23aaq" /></a></p>
 
  </div>
