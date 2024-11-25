@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/cadetCoder/cadetCoder/main/GIFs/web_development.gif)](https://dtoledo-portfolio.vercel.app)
+[![MasterHead](https://raw.githubusercontent.com/cadetCoder/dt23aaq/main/GIFs/web_development.gif)](https://dtoledo-portfolio.vercel.app)
 
 <!-- https://pbs.twimg.com/profile_banners/1698096276/1620509782/1500x500 -->
 <!-- https://jusmarktech.com/public/a/images/pages/web_development.gif this is another nice gif image--> 
@@ -33,7 +33,7 @@ Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL
 
 <div align="center">
 
-<h2 align="center">Languages and Tools <img src="https://github.com/cadetCoder/cadetCoder/blob/main/GIFs/laptop.gif" width="50"></h2>  
+<h2 align="center">Languages and Tools <img src="https://github.com/dt23aaq/dt23aaq/blob/main/GIFs/laptop.gif" width="50"></h2>  
 <img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/vue.png?raw=true" height="60" width="60">
 <img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://github.com/dt23aaq/dt23aaq/blob/main/logos/css.png?raw=true" height="60" width="60">
